@@ -1,2 +1,2 @@
-# May-repo-2023
-practical account and learning Git
+# May-Projects-2023
+practical in javaScipt 
